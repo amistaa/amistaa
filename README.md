@@ -1,1 +1,1 @@
-### Amista is cool uwu ⚡
+### Hello there!
