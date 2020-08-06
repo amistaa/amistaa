@@ -1,6 +1,6 @@
 ### Social Media
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -23,7 +23,7 @@
 [website]: https://osu.ppy.sh/users/1610381
 [youtube]: https://www.youtube.com/channel/UC51hyQhmb1-8HZ8mF4nssVg
 [facebook]: https://facebook.com/AmistaDev
-[instagram]: https://instagram.com/codeSTACKr
-[discord]: https://instagram.com/codeSTACKr
+[instagram]: https://discord.gg/zqw3nc
+[discord]: https://discord.gg/zqw3nc
 [steam]: https://steamcommunity.com/id/amistaa
 
