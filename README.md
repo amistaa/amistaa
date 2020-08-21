@@ -20,7 +20,7 @@
 <br />
 <br />
 
-[website]: https://osu.ppy.sh/users/1610381
+[website]: https://osu.ppy.sh/users/16103818
 [youtube]: https://www.youtube.com/channel/UC51hyQhmb1-8HZ8mF4nssVg
 [facebook]: https://facebook.com/AmistaDev
 [instagram]: https://discord.gg/zqw3nc
