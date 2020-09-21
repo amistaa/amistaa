@@ -1,3 +1,5 @@
+### MY PRIVATE CODE IS OP THEN OPEN SOURCE !
+
 ### Social Media
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
