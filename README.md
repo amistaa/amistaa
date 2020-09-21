@@ -1,5 +1,3 @@
-### MY PRIVATE REPO IS OP THAN PUBLIC REPO
-
 ### Social Media
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
