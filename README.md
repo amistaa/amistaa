@@ -7,7 +7,7 @@
 <h3 align="center">Amista A</h3>
 
 <p align="center">
-  Front-End Developer with Node.Js as Back-End aka Full-Stack Developer.
+  Front-End Developer with NodeJs as Back-End aka Full-Stack Developer.
   <br>
   <a href="https://github.com/hanahaneull"><strong>❤</strong></a>
   <br>
