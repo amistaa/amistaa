@@ -15,4 +15,3 @@
 
 ---
 
-Hire : mystoganspace@gmail.com 
